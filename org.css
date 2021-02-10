@@ -9,9 +9,8 @@ body {
   max-width: 80ch;
 }
 
-div#content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+pre {
+  font-family: 'IBM Plex Mono', monospace;
+  box-shadow: 0;
 }
+
